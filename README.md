@@ -1,1 +1,1 @@
-#### Answer for BaekJoon coding as Python
+#### Answers for BaekJoon coding as Python
